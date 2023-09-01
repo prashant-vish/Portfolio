@@ -14,8 +14,8 @@ const ProjectCardData = [
     imgsrc: project1,
     title: "Day-Planner",
     text: " App is useful for sheduling Our Day. CREATE and DELETE Operations are performed using NodeJS.For Storage I used JSON File. If One will close App Come again he/she will be Able to See his/her Todos",
-    view: "https://github.com/prashant-vish/Todo-App",
-    source_code: "https://github.com/prashant-vish/Todo-App",
+    view: "https://github.com/prashant-vish/Day-planner",
+    source_code: "https://github.com/prashant-vish/Day-planner",
   },
   {
     imgsrc: project2,

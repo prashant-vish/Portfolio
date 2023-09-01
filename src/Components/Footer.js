@@ -48,11 +48,12 @@ const Footer = () => {
           </div>
         </div>
         <div className="right">
-          <h4>About The Company</h4>
+          <h4>About Me</h4>
           <p>
             This is prashant Vishwakarma, Creator of this portfolio Website i
             love to show my Gratidute to Harkirat singh who made me able to
-            create a descent looking websites and Web Applications..
+            create a descent looking websites and Web Applications..He is my
+            Mentor.
           </p>
           <div className="social">
             <FaFacebook
