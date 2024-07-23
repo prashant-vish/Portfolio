@@ -11,8 +11,7 @@ const AboutContent = () => {
       <div className="left">
         <h1>Who i am?</h1>
         <p>
-          I am React Developer. I have worked on many project and have 2
-          internships in top MNCs like google and Amazon!
+          I am React Developer. I am a Coding Enthusiast , love working on diffent Technologies and my problem Solving skills helps me a lot.
         </p>
         <Link to="/contact">
           <button className="btn">Contact</button>
